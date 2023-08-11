@@ -1,21 +1,21 @@
-lang-name = English
+lang-name = Français
 
-title = The Quilt Project
+title = Le projet Quilt
 short-title = QuiltMC
-description = The mod-loader that cares.
+description = Le chargeur de mods qui compte.
 
 title-formatted = {$shortTitle} | {$title}
 serial-comma = {$prev}, {$next}
 
 # Common strings
--developer-wiki = Developer Wiki
+-developer-wiki = Wiki Développeur
 -forum = Forum
 -import-utility = Quilt Import Utility
--help-wanted = Help Wanted
+-help-wanted = Besoin d'aide ?
 -patch-notes = Patch Notes
--sponsors = Sponsors
--staff-resources = Staff Resources
--template-mod = Template Mod
+-sponsors = Sponsores
+-staff-resources = Resources Staff
+-template-mod = Mod
 
 # Brand names/proper nouns - You shouldn't need to edit this.
 -mastodon = Mastodon
@@ -26,12 +26,12 @@ serial-comma = {$prev}, {$next}
 
 page-authors =
 	{ $count ->
-        [one] Author
-        *[other] Authors
+        [one] Auteur
+        *[other] Auteurs
 	}: {$names}
-page-edited = Edited: {DATETIME($date, month: "long", year: "numeric", day: "numeric")}
+page-edited = Modifié le : {DATETIME($date, month: "long", year: "numeric", day: "numeric")}
 post-date = {DATETIME($date, month: "long", year: "numeric", day: "numeric")}
-edit-on-github = Edit this page on GitHub
+edit-on-github = Modifier cette page sur GitHub
 
 
 nav-about = About
