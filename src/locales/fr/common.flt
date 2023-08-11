@@ -10,7 +10,7 @@ serial-comma = {$prev}, {$next}
 # Common strings
 -developer-wiki = Wiki Développeur
 -forum = Forum
--import-utility = Quilt Import Utility
+-import-utility = Doc. Importations Quilt
 -help-wanted = Besoin d'aide ?
 -patch-notes = Patch Notes
 -sponsors = Sponsores
@@ -34,15 +34,15 @@ post-date = {DATETIME($date, month: "long", year: "numeric", day: "numeric")}
 edit-on-github = Modifier cette page sur GitHub
 
 
-nav-about = About
+nav-about = À Propos
 nav-blog = Blog
-nav-community = Community
-nav-install = Install
-nav-more-pages = More Pages
-nav-usage = Usage
+nav-community = Communauté
+nav-install = Installation
+nav-more-pages = Plus de pages
+nav-usage = Utilisation
 
-divider-development = Development
-divider-external-links = External Links
+divider-development = Dévelopement
+divider-external-links = Liens Externes
 
 nav-page-developer-wiki = {-developer-wiki}
 nav-page-import-utility = {-import-utility}
@@ -52,39 +52,39 @@ nav-page-patch-notes = {-patch-notes}
 nav-page-sponsors = {-sponsors}
 nav-page-staff-resources = {-staff-resources}
 nav-page-template-mod = {-template-mod}
-nav-page-legal = Legal
-nav-page-donate = Donate
+nav-page-legal = Légal
+nav-page-donate = Donner
 
-button-close = Close
+button-close = Fermer
 button-discord = {-discord}
 button-discord-toolchain = Toolchain
 button-developer-wiki = {-developer-wiki}
-button-donate = Donate
+button-donate = Donner
 button-forum = {-forum}
 button-github = {-github}
-button-install = Install
+button-install = Installer
 button-mastodon = {-mastodon}
 button-maven-repo = Maven Repo
-button-more = More
-button-more-posts = More Posts
+button-more = Plus
+button-more-posts = Plus de Posts
 button-help-wanted = {-help-wanted}
-button-official-site = Official Site
+button-official-site = Site officiel
 button-patch-notes = Minecraft {-patch-notes}
 button-rss = RSS
 button-template-mod = {-template-mod}
 button-twitter = {-twitter}
 button-twitch = {-twitch}
-button-usage-docs = Usage Docs
+button-usage-docs = Doc. sur l'utilisation
 
 sidebar-pages = Pages
 sidebar-resources = Resources
-sidebar-teams = Teams
+sidebar-teams = Équipe
 sidebar-versions = Versions
 
-paginator-button-first = First
-paginator-button-previous = Previous
-paginator-button-next = Next
-paginator-button-last = Last
+paginator-button-first = Premier
+paginator-button-previous = Retour
+paginator-button-next = Suivant
+paginator-button-last = Dernier 
 
 tooltip-switch-language = Switch Language
 tooltip-toggle-low-contrast = Toggle Low Contrast
@@ -93,6 +93,6 @@ prompt-error-noscript = You have JavaScript disabled. Enable JavaScript to use s
 prompt-search-language = Search for your language here...
 
 page-404 = 404
-page-404-title = Page not found :(
-page-404-subtitle = The requested page could not be found.
-page-404-image-title = Sad Pineapple :(
+page-404-title = Page non trouver :(
+page-404-subtitle = La page que vous avez demander n'a pas été trouvé.
+page-404-image-title = Ananas Triste :(
