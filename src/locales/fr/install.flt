@@ -9,7 +9,7 @@
 
 platform-bakaxl = BakaXL
 platform-client = Client
-platform-server = Server
+platform-server = Serveur
 platform-atlauncher = {-atlauncher}
 platform-multimc = {-multimc}
 platform-prismlauncher = {-prismlauncher}
@@ -17,23 +17,23 @@ platform-technic = {-technic}
 platform-curseforge = {-curseforge}
 platform-gdlauncher = {-gdlauncher}
 
-logo-minecraft = Minecraft logo
-logo-java = Java logo
-logo-atlauncher = {-atlauncher} logo
-logo-bakaxl = {-bakaxl} logo
-logo-multimc = {-multimc} logo
-logo-prismlauncher = {-prismlauncher} logo
-logo-technic = Technic Launcher logo
-logo-curseforge = {-curseforge} logo
-logo-gdlauncher = {-gdlauncher} logo
+logo-minecraft = Logo Minecraft
+logo-java = Logo Java
+logo-atlauncher = Logo {-atlauncher}
+logo-bakaxl = Logo {-bakaxl}
+logo-multimc = Logo {-multimc}
+logo-prismlauncher = Logo {-prismlauncher}
+logo-technic = Logo Technic Launcher
+logo-curseforge = Logo {-curseforge}
+logo-gdlauncher = Logo {-gdlauncher}
 
-button-back = Back
-	.full = Back to List
+button-back = Retour
+	.full = Retour à la Liste
 button-menu = Menu
-button-website = Website
+button-website = Site Web
 
 wip-warning =
-	<0><1>Quilt is in beta.</1> Here be dragons - there may be issues, but we'll fix them as quickly as we can!</0><2>If you'd like to help us test Quilt, please feel free to install it, try it, and let us know how you get on!</2>
+	<0><1>Quilt est en bêta.</1> Voilà les dragons - vous aurez peut être des bugs, mais nous essayerons de les régler le plus vite possible !</0><2>Si vous voulez nous aider à tester Quilt, n'hésitez pas à l'installer, et à nous dire si vous avez des problèmes !</2>
 
 # Used as the default text for the installer version if it's not replaced by JS.
-installer-version-placeholder = Download
+installer-version-placeholder = Installer
